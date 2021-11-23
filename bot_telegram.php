@@ -1,7 +1,7 @@
 <?php
 //php "A:\Bot Telegram PHP\bot_telegram.php"
 # Variabel konfigurasi
-$token = "1881015109:AAGrPGmLswF0tu_x3-C43izT3hfBtmXfXu4";  // isi token bot di sini
+$token = "2146702080:AAENzxW2_Bllpz40ZOtugIzzKs5LqoKiRDM";  // isi token bot di sini
 $username_dev = "@Rizki636";
 $versi_bot    = "1.0";                                      // sesuaikan dengan tahap pengembangan dan fitur
 $offset       = 0;                                          // mula - mula data input dimulai dari 0
